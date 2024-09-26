@@ -1,0 +1,29 @@
+/* src/index.css */
+
+/* Apply a global box-sizing rule */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set a global font */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* A basic style for headings */
+  h1 {
+    color: #4CAF50;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Basic container styling */
+  div {
+    padding: 20px;
+  }
+  
